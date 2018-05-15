@@ -1,0 +1,19 @@
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.exe.config
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.exe
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.pdb
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\bin\Debug\Entidade.dll
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\bin\Debug\Entidade.pdb
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.exe
+C:\Users\andre\source\repos\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.pdb
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.exe.config
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.exe
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\bin\Debug\ControleDeProblemas.pdb
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\bin\Debug\Entidade.dll
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\bin\Debug\Entidade.pdb
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.csproj.CopyComplete
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.exe
+C:\Users\Renato\Documents\Aula andre\Sexta Feira\ControleDeProblemas\ControleDeProblemas\obj\Debug\ControleDeProblemas.pdb

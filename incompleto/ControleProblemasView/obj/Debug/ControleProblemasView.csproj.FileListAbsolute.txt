@@ -1,0 +1,15 @@
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\bin\Debug\ControleProblemasView.exe.config
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\bin\Debug\ControleProblemasView.exe
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\bin\Debug\ControleProblemasView.pdb
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.csprojResolveAssemblyReference.cache
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.Properties.Resources.resources
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.csproj.GenerateResource.Cache
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.csproj.CoreCompileInputs.cache
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.exe
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.pdb
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\bin\Debug\Entidade.dll
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\bin\Debug\Entidade.pdb
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.FrmPrincipal.resources
+E:\Topicos I _ DotNet\AULA 1603\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.FrmTipo.resources
+C:\Users\MATRIX\Downloads\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.exe
+C:\Users\MATRIX\Downloads\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.pdb
